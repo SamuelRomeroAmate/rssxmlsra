@@ -15,8 +15,6 @@
 <description>Artículo de despedida del podcast</description>
 <author>Samuel</author>
 <pubDate>18 de Mayo de 2025</pubDate>
-<enclosure url=”” type=”audio/ogg” length=”300″ />
-
 </item>
 
 <item>
@@ -26,8 +24,6 @@
 <description>Artículo que contiene todo el desenlace del podcast</description>
 <author>Samuel</author>
 <pubDate>18 de Mayo de 2025</pubDate>
-<enclosure url=”” type=”audio/ogg” length=”300″ />
-
 </item>
 
 <item>
@@ -37,8 +33,6 @@
 <description>Artículo que contiene todo el contenido del podcast</description>
 <author>Samuel</author>
 <pubDate>18 de Mayo de 2025</pubDate>
-<enclosure url=”” type=”audio/ogg” length=”300″ />
-
 </item>
 
 <item>
@@ -48,8 +42,6 @@
 <description>Artículo de introducción al podcast</description>
 <author>Samuel</author>
 <pubDate>18 de Mayo de 2025</pubDate>
-<enclosure url=”” type=”audio/ogg” length=”300″ />
-
 </item>
 
 <item>
@@ -59,8 +51,6 @@
 <description>Artículo de bienvenida al podcast</description>
 <author>Samuel</author>
 <pubDate>18 de Mayo de 2025</pubDate>
-<enclosure url=”” type=”audio/ogg” length=”300″ />
-
 </item>
 
 </channel>
