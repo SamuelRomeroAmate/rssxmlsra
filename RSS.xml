@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The Walking Dead - Podcast</title>
+    <link>https://www.thewalkingdeadpodcast.com</link>
+    <description>Análisis, curiosidades y recapitulaciones de la serie The Walking Dead</description>
+    <language>es</language>
+    <copyright>The Walking Dead Podcast © 2025</copyright>
+
+    <item>
+      <title>Episodio 1 - El comienzo del apocalipsis</title>
+      <link>https://www.thewalkingdeadpodcast.com/episodio1</link>
+      <description>Exploramos el primer episodio de la serie y cómo se desata el caos zombi.</description>
+      <author>twdpodcast@correo.com</author>
+      <pubDate>Sun, 18 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 2 - Personajes principales</title>
+      <link>https://www.thewalkingdeadpodcast.com/episodio2</link>
+      <description>Un repaso a Rick, Daryl, Michonne y otros personajes clave de la historia.</description>
+      <author>twdpodcast@correo.com</author>
+      <pubDate>Mon, 19 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 3 - Los villanos más temibles</title>
+      <link>https://www.thewalkingdeadpodcast.com/episodio3</link>
+      <description>Desde el Gobernador hasta Negan: analizamos a los peores enemigos.</description>
+      <author>twdpodcast@correo.com</author>
+      <pubDate>Tue, 20 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 4 - Lugares icónicos</title>
+      <link>https://www.thewalkingdeadpodcast.com/episodio4</link>
+      <description>La prisión, Alexandria, Hilltop y más: entornos fundamentales para la trama.</description>
+      <author>twdpodcast@correo.com</author>
+      <pubDate>Wed, 21 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Episodio 5 - Final de temporada y teorías</title>
+      <link>https://www.thewalkingdeadpodcast.com/episodio5</link>
+      <description>Comentamos el final de la temporada y especulamos sobre lo que vendrá.</description>
+      <author>twdpodcast@correo.com</author>
+      <pubDate>Thu, 22 May 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
